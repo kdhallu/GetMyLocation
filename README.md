@@ -1,13 +1,5 @@
-AndroidStarup
-=============
+### GetMyLocation
 
-sampleapp to calculate co ordinates
-
-
-this is a small prototype which calcultes the co ordinates form the android phone and displays it on the device itself
-
-it uses toast to display the co ordinates and work with android 2.2 or higher 
-
-
+Android application which get the users location and it displays it on the mobile device in toast message 
 use it for free edit it do whatever iam not responsible for any of your losses
 
